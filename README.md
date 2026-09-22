@@ -4,7 +4,7 @@ An interactive HR analytics dashboard built in Microsoft Excel that analyzes emp
 
 Filter by **Department, Job Role, Gender, Age Group, or Salary Range**, and every chart and KPI updates instantly.
 
-![Employee Attrition Dashboard](images/dashboard-full.png)
+<img width="1299" height="862" alt="Screenshot 2026-09-22 223621" src="https://github.com/user-attachments/assets/6e82763a-cdf6-48d2-b6f3-1dda7757f3f0" />
 
 ---
 
@@ -98,9 +98,6 @@ Grouping ages and salaries into bands makes the PivotTables and charts far easie
 
 Five slicers — **Department, Job Role, Gender, Age Group, and Salary Range** — are connected to the dashboard's PivotTables. Selecting a department, for instance, instantly filters every chart down to that department's employee population.
 
-![Department Filter](images/dashboard-department-filter.png)
-![Gender Filter](images/dashboard-gender-filter.png)
-
 ---
 
 ## 🛠️ Tools & Skills
@@ -135,10 +132,7 @@ Employee-Attrition-HR-Analytics-Excel/
 │
 ├── Employee_Attrition_HR_Analytics.xlsx
 ├── README.md
-└── images/
-    ├── dashboard-full.png
-    ├── dashboard-department-filter.png
-    └── dashboard-gender-filter.png
+
 ```
 
 ---
@@ -171,13 +165,14 @@ It's part of my ongoing journey of learning data analytics through hands-on proj
 
 ## 👤 Author
 
-**Mayur**
+**Mayur Barase**
+
 Aspiring Data Analyst | Excel · SQL · Python · Power BI
 
 > Learning by building, analyzing, and continuously improving.
 
-- **GitHub:** [your-username](https://github.com/your-username)
-- **LinkedIn:** [your-name](https://linkedin.com/in/your-profile)
+- **GitHub:** [mayurbarase](https://github.com/mayurbarase)
+- **LinkedIn:** [Mayur-Barase](https://www.linkedin.com/in/mayur-barase)
 
 ---
 
